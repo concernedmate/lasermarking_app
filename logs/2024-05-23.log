@@ -1,5 +1,0 @@
-Log started 2024-05-23 12:19:13
-12:19:13	fc6183ec-16bb-43a8-b259-660c768dcf39	'Resp: {"status":200,"message":"[Success]"}'
-12:19:13	001f79ed-afed-4b25-8f25-2fab38683669	GET /api/v1/order/all?from_row=2&start_date=2024-04-01&end_date=2024-06-01
-12:26:59	3b2d046c-1956-4f96-aaad-d9a7e53ff7d9	GET /api/v1/order/all?from_row=2&start_date=2024-04-01&end_date=2024-06-01
-12:26:59	1762e51b-a0ef-4d47-983e-df0b2539d9ee	'Resp: {"status":200,"message":"[Success]"}'
