@@ -1,0 +1,11 @@
+Log started 2024-05-29 16:18:41
+16:18:41	3dd14d6f-daea-4cad-8f86-f7e866e2ec43	Connected to LASER_A 192.168.100.22:23
+16:18:46	c36a34e1-52fb-44e0-a260-89d7067d68ed	LASER_A [WRITING VARIABLES]
+16:20:41	f646495e-c102-40c5-8a3b-44a43143b02b	Connected to LASER_A 192.168.100.22:23
+16:20:46	4f6d6064-cac0-457f-92ce-a40c746172ab	LASER_A [WRITING VARIABLES]
+16:46:59	09e34bd2-8bbe-457e-afce-83b42f8e5bf1	GET /laser
+16:46:59	deb2f3c0-fd44-44a3-b2a5-f84318b17d20	GET /static/js/main.2f78494d.js
+16:46:59	68679e4e-f092-4e77-8738-eef1c9179402	GET /static/css/main.9ce4f3b5.css
+16:47:00	fc032bb7-ee69-434e-8acc-11589f33bd26	GET /static/js/main.2f78494d.js
+16:47:04	5b23fee9-a3c2-4bc6-8fdd-2f86353985ac	GET /api/v1/order/history/laser?laser_code=LASER_A
+16:47:04	249fc3d7-f074-49df-8f04-386b56cef42e	'Resp: {"status":200,"message":"[Success]"}'
